@@ -1,0 +1,11 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Thu, 02 Nov 2023 22:00:00 at https://dev582.d17u48yulpjvd3.amplifyapp.com
+(httrack https://dev582.d17u48yulpjvd3.amplifyapp.com )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 seconds : 6 links scanned, 5 files written (514798 bytes overall) [169967 bytes received at 28327 bytes/sec], 510350 bytes transferred using HTTP compression in 3 files, ratio 31%, 3.0 requests per connection
+(No errors, 0 warnings, 0 messages)
